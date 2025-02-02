@@ -102,7 +102,7 @@ The dataset, `anime_data.csv`, consists of **12,101** entries and **44** feature
 - **Root Mean Squared Error (RMSE)**: Penalizes larger errors.
 - **Mean Absolute Error (MAE)**: Provides an average magnitude of errors.
 
-| Metric  | Training Data | Test Data |
+| Metric  | Test Data | Training Data |
 |---------|---------------|-----------|
 | **RMSE**  | 0.577         | 0.569     |
 | **MAE**   | 0.467         | 0.464     |
