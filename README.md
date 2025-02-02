@@ -68,6 +68,7 @@ The dataset, `anime_data.csv`, consists of **12,101** entries and **44** feature
 ### Correlation Analysis
 
 - A heatmap was generated to understand feature relationships.
+![Image](https://github.com/user-attachments/assets/4eae2746-d093-4e32-8fc8-e1cbeb1956ec)
 - Observed strong correlations between `watched`, `votes`, and `rating`, indicating popularity influences ratings.
 
 ## Feature Engineering
